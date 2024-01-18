@@ -1,4 +1,4 @@
-### <div align="center"> Oiee! Prazer me chamo Verônica! 🙋🏻‍♀️ </div>
+### <div align="center"> <img  width="30px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"> Oiee! Prazer me chamo Verônica! </div>
 
 ##
 
@@ -11,16 +11,16 @@
 <br>
 
 <h3> 
-  - 🔭  Sou Desenvolvedora <strong> Front End </strog>
+  - <img width="40px" src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif"> Sou Desenvolvedora <strong> Front End </strog>
   <br>
   <br>
-- 🌱 Estudando React
-  <br>
-  <br>  
-- 😄 Pronouns: Ela/Dela
+- <img width="40px" src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif"> Estudando React
   <br>
   <br>  
-- <img width="30px" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"/> Gosto muito de animes e curto jogar RPG de mesa.
+- <img width="40px" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"> Ela/Dela
+  <br>
+  <br>  
+- <img width="40px" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"/> Gosto animes e curto jogar RPG de mesa.
 </h3>
 
 <div align="center"> <br>

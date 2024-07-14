@@ -20,7 +20,7 @@
 - <img width="40px" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"> Ela/Dela
   <br>
   <br>  
-- <img width="40px" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"/> Gosto animes e curto jogar RPG de mesa.
+- <img width="40px" src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"/> Gosto de animes e curto jogar RPG de mesa.
 </h3>
 
 <div align="center"> <br>
